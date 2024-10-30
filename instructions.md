@@ -14,3 +14,8 @@ rails generate controller StaticPages index help
 ./bin/bundle add tailwindcss-rails
 ./bin/rails tailwindcss:install
 ```
+
+### start build process
+```
+./bin/dev
+```
