@@ -7,3 +7,10 @@ rails new app
 ```
 rails generate controller StaticPages index help
 ```
+
+### Install Tailwind css
+
+```
+./bin/bundle add tailwindcss-rails
+./bin/rails tailwindcss:install
+```
